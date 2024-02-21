@@ -20,4 +20,4 @@ Gain familiarity with pure numpy.
 
 ![The Training Accuracy and Loss](./docs/training.png?raw=true "The Training Accuracy and Loss")
 
-#### The final test accuracy for a 2 layer FNN is 96.39% for a training of 100 epochs.
+#### The final test accuracy for a 2-layer FNN is 96.39% after training for 100 epochs.
