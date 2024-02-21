@@ -1,4 +1,4 @@
-# MNIST from scratch
+# MNIST From Scratch
 #### Building a simple feedforward neural network (FNN) from scratch without relying on PyTorch or Tensorflow/Keras, using only numpy to solve the MNIST dataset.
 
 # Background:
