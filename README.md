@@ -17,4 +17,4 @@ Gain familiarity with pure numpy.
 
 ### The Training Accuracy and Loss
 
-![The Training Accuracy and Loss](./Docs/Training.png?raw=true "The Training Accuracy and Loss")
+![The Training Accuracy and Loss](./docs/training.png?raw=true "The Training Accuracy and Loss")
