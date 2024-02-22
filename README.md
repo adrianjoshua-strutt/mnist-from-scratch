@@ -7,6 +7,17 @@ I build a simple feedforward neural network (FNN) from scratch without relying o
 It employs vanilla stochastic gradient descent and the MSELoss.
 The project does not use Pytorch or Tensorflow/Keras and is only coded using numpy.
 
+The network design involves simply adding layers to the array in the `Network` constructor:
+
+     network = Network([
+
+      FullyConnectedLayer(784, 128),
+      SigmoidLayer(),
+      FullyConnectedLayer(128, 10),
+      SoftmaxLayer()
+
+     ], MeanSquaredErrorLoss(), SGDFlavorVanilla(0.01))
+
 
 # Key Takeaways:
 ### 1. A Deeper Understanding of Neural Networks
